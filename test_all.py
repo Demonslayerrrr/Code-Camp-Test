@@ -1,2 +1,3 @@
+from main import hello_function   
 def test_all():
-  assert True
+    assert hello_function() == "hello"
