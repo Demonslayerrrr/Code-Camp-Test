@@ -1,4 +1,4 @@
-from python.main import hello_function
+from main import hello_function
 import pytest
 
 def test_hello_function():
